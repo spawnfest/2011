@@ -6,59 +6,59 @@ description: "An annual 48 hour development competition in which teams of skille
 
 nav:
     - name: Pictures
-      url: /pics/
+      url: /2011/pics/
     - name: Rules
-      url: /rules/
+      url: /2011/rules/
     - name: Prizes
-      url: /prizes/
+      url: /2011/prizes/
     - name: Judges
-      url: /judges/
+      url: /2011/judges/
     - name: Winners
-      url: /winners/
+      url: /2011/winners/
 
 sponsors:
-    - url: http://www.soft10.es
+    - url: https://www.soft10.es
       alt_text: Visit Soft10
-      img_src: /static/img/soft10.jpg
-    - url: http://dev-extend.eu
+      img_src: /2011/static/img/soft10.jpg
+    - url: https://dev-extend.eu
       alt_text: Visit Dev:Extend
-      img_src: /static/img/devextend.jpg
-    - url: http://github.com/
+      img_src: /2011/static/img/devextend.jpg
+    - url: https://github.com/
       alt_tetx: Visit GitHub
-      img_src: /static/img/github.png
-    - url: http://erlang-solutions.com
+      img_src: /2011/static/img/github.png
+    - url: https://erlang-solutions.com
       alt_text: Visit Erlang Solutions
-      img_src: /static/img/esl.png
-    - url: http://kodiak.is
+      img_src: /2011/static/img/esl.png
+    - url: https://kodiak.is
       alt_text: Visit Kodiak
-      img_src: /static/img/kodiak.png
-    - url: http://spawngrid.com
+      img_src: /2011/static/img/kodiak.png
+    - url: https://spawngrid.com
       alt_text: Visit Spawngrid
-      img_src: /static/img/spawngrid.png
-    - url: http://www.manning.com/
+      img_src: /2011/static/img/spawngrid.png
+    - url: https://www.manning.com/
       alt_text: Visit Manning
-      img_src: /static/img/manning.gif
-    - url: http://www.oreilly.com/
+      img_src: /2011/static/img/manning.gif
+    - url: https://www.oreilly.com/
       alt_text: Visit O'Reilly
-      img_src: /static/img/oreilly.png
-    - url: http://inakanetworks.com/
+      img_src: /2011/static/img/oreilly.png
+    - url: https://inakanetworks.com/
       alt_text: Visit Inaka Networks
-      img_src: /static/img/inaka.png
-    - url: http://www.travelping.com/
+      img_src: /2011/static/img/inaka.png
+    - url: https://www.travelping.com/
       alt_text: Visit Travelping
-      img_src: /static/img/travelping.png
-    - url: http://www.managedhosting.de/products/vmware_en.php?svlang=en&sid=a54e17eb435128d2a8d8a0d41d8c8cc0&svpage=product_vcloud
+      img_src: /2011/static/img/travelping.png
+    - url: https://www.managedhosting.de/products/vmware_en.php?svlang=en&sid=a54e17eb435128d2a8d8a0d41d8c8cc0&svpage=product_vcloud
       alt_text: Visit managedhosting.de
-      img_src: /static/img/managedhosting.png
-    - url: http://www.gandi.net/
+      img_src: /2011/static/img/managedhosting.png
+    - url: https://www.gandi.net/
       alt_text: Visit Gandi
-      img_src: /static/img/gandi.gif
-    - url: http://www.irccloud.com/
+      img_src: /2011/static/img/gandi.gif
+    - url: https://www.irccloud.com/
       alt_text: Visit IRC Cloud
-      img_src: /static/img/irccloud.png
-    - url: http://www.vmware.com/
+      img_src: /2011/static/img/irccloud.png
+    - url: https://www.vmware.com/
       alt_text: VMWare
-      img_src: /static/img/vmware.jpeg
-    - url: http://www.rabbitmq.com/
+      img_src: /2011/static/img/vmware.jpeg
+    - url: https://www.rabbitmq.com/
       alt_text: VMWare RabbitMQ
-      img_src: /static/img/rabbitmq.png
+      img_src: /2011/static/img/rabbitmq.png
